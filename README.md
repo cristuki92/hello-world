@@ -1,2 +1,3 @@
 # hello-world
-Just another repository.
+Mi primer repositorio en Github
+Tutorial guiado de Github.
